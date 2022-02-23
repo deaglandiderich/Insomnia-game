@@ -1,0 +1,2 @@
+Build instructions: Open the pde files in processing, click export application and confirm the export.
+Run instructions: Go into the folder that was created by the export, called windows-amd64 if built for windows. Run the .exe file called "Shooter."
